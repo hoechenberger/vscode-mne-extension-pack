@@ -1,0 +1,31 @@
+{
+    "name": "mne-extension-pack",
+    "displayName": "MNE-Python Extension Pack",
+    "description": "A collection of extensions for users and developers of MNE-Python.",
+    "version": "2021.1.0",
+    "publisher": "hoechenberger",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hoechenberger/vscode-mne-extension-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens", 
+        "GitHub.vscode-pull-request-github",
+        "hoechenberger.mne-snippets",
+        "ionutvmi.path-autocomplete",
+        "KevinRose.vsc-python-indent",
+        "mechatroner.rainbow-csv",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vsliveshare.vsliveshare-pack",
+        "njpwerner.autodocstring",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
