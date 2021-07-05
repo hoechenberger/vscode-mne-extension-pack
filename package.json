@@ -2,8 +2,9 @@
     "name": "mne-extension-pack",
     "displayName": "MNE-Python Extension Pack",
     "description": "A collection of extensions for users and developers of MNE-Python.",
-    "version": "2021.2.0",
+    "version": "2021.2.1",
     "publisher": "hoechenberger",
+    "icon": "images/mne.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/hoechenberger/vscode-mne-extension-pack.git"
