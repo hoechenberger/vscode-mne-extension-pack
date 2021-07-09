@@ -2,7 +2,7 @@
     "name": "mne-extension-pack",
     "displayName": "MNE-Python Extension Pack",
     "description": "A collection of extensions for users and developers of MNE-Python.",
-    "version": "2021.2.1",
+    "version": "2021.3.0",
     "publisher": "hoechenberger",
     "icon": "images/mne.png",
     "repository": {
@@ -28,6 +28,7 @@
         "ms-toolsai.jupyter",
         "ms-vsliveshare.vsliveshare-pack",
         "njpwerner.autodocstring",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "ms-vscode.live-server"
     ]
 }
